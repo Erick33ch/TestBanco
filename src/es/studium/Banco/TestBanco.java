@@ -2,6 +2,7 @@ package es.studium.Banco;
 
 public class TestBanco {
 	public static void main(String[] args) {
+		/*NUESTRO CÓDIGO FUENTE*/
 		/* Antonio y Beatriz se hacen cliente del banco */
 		Cliente antonio = new Cliente("123456789Z", "Antonio Alonso", "Av. Pueblo Saharaui, s/n");
 		Cliente beatriz = new Cliente("987654321A", "Beatriz Benítez", "Calle Sol, 4");
